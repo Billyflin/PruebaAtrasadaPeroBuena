@@ -1,0 +1,2 @@
+Haru,Gato,Macho,2,2021-07-20,false
+Shiro,Gato,Hembra,2,2021-07-20,true
